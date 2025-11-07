@@ -6,8 +6,6 @@ Open directly in Colab 👉
 
 ### 🎯 Research Aim and Scope
 
-This study extends *Cortez & Silva (2008)* by developing a **feature-selection-based framework** that integrates *fold-inner (leak-free) feature selection (FS)*, *nested cross-validation*, and *statistical significance testing*.
-
 The project compares six FS strategies — **Varimax, LASSO, RFE, Tree Importance, Union, and Intersection** — across multiple setups (**A_All, B_NoG2, C_NoG1G2**) and tasks (binary classification, five-level classification, and regression).
 
 Five **machine learning models** were used to evaluate FS effects on predictive performance: *Multi-Layer Perceptron (MLP), Support Vector Machine (SVM), Decision Tree (DT), Random Forest (RF),* and *XGBoost (XGB)*.  
