@@ -2,7 +2,7 @@
 
 ## ⚙️ Run in Google Colab
 Open directly in Colab 👉  
-[🔗 https://colab.research.google.com/drive/1CSaIn0OdfMlOPSIHUhu0_4hA2N3VQrlN?authuser=1](https://colab.research.google.com/drive/1kPu1mxhGAt0d5xC67ib2cQe_XdPtaH93#scrollTo=LQqibQzMaW-x)])
+[🔗(https://colab.research.google.com/drive/1H3mt3gUt_Hqm_A7vs5nIy11dIVnIW5tC#scrollTo=FUAc_4tILn0v))])
 
 ### 🎯 Research Aim and Scope
 
