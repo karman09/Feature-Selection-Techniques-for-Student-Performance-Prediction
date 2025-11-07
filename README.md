@@ -1,4 +1,4 @@
-#  Assessing the Methodological and Statistical Impact of Feature Selection in Student Performance Modeling
+#  A Comparative Study of Feature Selection Techniques for Student Performance Prediction
 
 ## ⚙️ Run in Google Colab
 Open directly in Colab 👉  
@@ -27,19 +27,10 @@ By applying **Friedman χ²** and **Wilcoxon–Holm** tests, the study provides 
 - **Result Markers:**  
   - ▲ (best mean), † (statistically superior), * (better than baseline)
 
-## 📊 Example Outputs
-
-| Table | Task Type | Metric | Visualization |
-|:------|:-----------|:--------|:---------------|
-| 🟩 **Table 1** | Binary Classification | PCC% | <img src="https://raw.githubusercontent.com/karman09/student-performance-FS-significance/main/fs-significance-studentdata/fs_significance/ikili.png" width="500"><br>_Binary classification results (FS-based accuracy comparison)_ |
-| 🟨 **Table 2** | Five-Level Classification | PCC% | <img src="https://raw.githubusercontent.com/karman09/student-performance-FS-significance/main/fs-significance-studentdata/fs_significance/five.png" width="500"><br>_Five-level classification performance_ |
-| 🟦 **Table 3** | Regression | RMSE ↓ | <img src="https://raw.githubusercontent.com/karman09/student-performance-FS-significance/main/fs-significance-studentdata/fs_significance/reg.png" width="500"><br>_Lower RMSE indicates better performance_ |
-
----
 
 ## 🧾 Citation
-Arman Tunçer, K., 2025. Assessing the Methodological and Statistical Impact of Feature Selection in Student Performance Modeling. GitHub repository.
-URL: https://github.com/karman09/student-performance-FS-significance
+Arman Tunçer, K., 2025. A Comparative Study of Feature Selection Techniques for Student Performance Prediction. GitHub repository.
+URL: https://github.com/karman09/Feature-Selection-Techniques-for-Student-Performance-Prediction
 
 ---
 ### References
