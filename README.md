@@ -45,4 +45,4 @@ URL: https://github.com/karman09/student-performance-FS-significance
 ### References
 Cortez, P., & Silva, A. (2008). *Using Data Mining to Predict Secondary School Student Performance.*  
 
-
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
