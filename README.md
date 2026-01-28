@@ -5,7 +5,7 @@ Open directly in Colab 👉
 [🔗(https://colab.research.google.com/drive/1uBVpvQF3kia2IhO4C4saJdSi_rEK3UlR?usp=sharing)])
 
 ## 🧾 Citation
-Arman Tunçer, K., 2025. A Comparative Study of Feature Selection Techniques for Student Performance Prediction. GitHub repository.
+Arman Tunçer, K., 2026. A Comparative Study of Feature Selection Techniques for Student Performance Prediction. GitHub repository.
 URL: https://github.com/karman09/Feature-Selection-Techniques-for-Student-Performance-Prediction
 
 ---
