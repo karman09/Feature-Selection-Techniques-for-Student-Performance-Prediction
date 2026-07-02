@@ -5,11 +5,6 @@ Open directly in Colab 👉
 [🔗(https://colab.research.google.com/drive/1uBVpvQF3kia2IhO4C4saJdSi_rEK3UlR?usp=sharing])
 
 ### ⚙️ External Validation Framework
-
-=============================================================================
-EXTERNAL VALIDATION FRAMEWORK FOR STUDENT DROPOUT PREDICTION
-=============================================================================
-
 Open directly in Colab 👉
 [🔗(https://colab.research.google.com/drive/1LZB4v6dGKwX8UCWYUeGAmQ9WKXCmX_Ay?authuser=1#scrollTo=LBK6UrPqbjzI)](https://colab.research.google.com/drive/1LZB4v6dGKwX8UCWYUeGAmQ9WKXCmX_Ay?authuser=1#scrollTo=LBK6UrPqbjzI)
 
